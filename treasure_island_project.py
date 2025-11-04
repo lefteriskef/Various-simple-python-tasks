@@ -58,7 +58,7 @@ if choice1 == "left":
                                 'Type "Run" for option 1. Type "Go back" for option 2.\n').lower()
 
                 if choice5 == "run":
-                    print("You finally discovered thee treasure and another way out. You win!")
+                    print("You finally discovered the treasure and another way out. You win!")
                 else:
                     print("The door behind you is locked. You are smashed by the closing walls... Game over.")
 
